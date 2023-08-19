@@ -1,0 +1,20 @@
+# Note
+A
+B
+C
+
+# Interval
+M2
+m2
+M3
+m3
+
+# Strings
+A E
+E C
+C G
+
+# Direction
+Up
+Down
+
