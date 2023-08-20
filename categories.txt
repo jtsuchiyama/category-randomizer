@@ -1,20 +1,31 @@
-# Note
+# Notes
 A
 B
 C
+D
+E
+F
+G
 
-# Interval
-M2
+# Intervals
 m2
-M3
+M2
 m3
+M3
+P4
+A4
+d5
+P5
+m6
+M6
+m7
+M7
 
 # Strings
-A E
-E C
-C G
+G C
+C E
+E A
 
 # Direction
 Up
 Down
-
